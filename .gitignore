@@ -1,0 +1,11 @@
+# 打包产物
+dist/
+build/
+*.spec
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地配置（含用户窗口位置，不该上传）
+*.json
